@@ -3,6 +3,8 @@ package negocio;
 public class MainCarro {
     public static void main() {
         Carro c1 = new Carro();
+        Carro c2 = new Carro();
+
 
         c1.potencia = 2;
         c1.velocidad = 60;
